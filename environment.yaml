@@ -1,0 +1,35 @@
+name: filtering
+channels:
+  - gwforg
+  - bioconda
+  - defaults
+dependencies:
+  - bcftools=1.9=h4da6232_0
+  - libdeflate=1.0=h470a237_0
+  - tabix=0.2.6=ha92aebf_0
+  - bzip2=1.0.6=h14c3975_5
+  - ca-certificates=2018.03.07=0
+  - certifi=2018.10.15=py37_0
+  - click=7.0=py37_0
+  - click-plugins=1.0.4=py37_0
+  - curl=7.62.0=hbc83047_0
+  - libcurl=7.62.0=h20c2e04_0
+  - libedit=3.1.20170329=h6b74fdf_2
+  - libffi=3.2.1=hd88cf55_4
+  - libgcc-ng=8.2.0=hdf63c60_1
+  - libssh2=1.8.0=h1ba5d50_4
+  - libstdcxx-ng=8.2.0=hdf63c60_1
+  - ncurses=6.1=hf484d3e_0
+  - openssl=1.1.1=h7b6447c_0
+  - pip=18.1=py37_0
+  - python=3.7.1=h0371630_3
+  - readline=7.0=h7b6447c_5
+  - setuptools=40.5.0=py37_0
+  - sqlite=3.25.2=h7b6447c_0
+  - tk=8.6.8=hbc83047_0
+  - wheel=0.32.2=py37_0
+  - xz=5.2.4=h14c3975_4
+  - zlib=1.2.11=ha838bed_2
+  - gwf=1.4.0=py_0
+prefix: /home/andyb/miniconda3/envs/filtering
+
